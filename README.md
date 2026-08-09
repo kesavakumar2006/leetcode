@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/kesavakumar2006/leetcode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kesavakumar2006/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kesavakumar2006/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
