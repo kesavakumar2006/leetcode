@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/kesavakumar2006/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kesavakumar2006/leetcode/tree/master/0169-majority-element) |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/kesavakumar2006/leetcode/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kesavakumar2006/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kesavakumar2006/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,24 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
