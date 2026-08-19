@@ -8,6 +8,7 @@
 | [0162-find-peak-element](https://github.com/kesavakumar2006/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kesavakumar2006/leetcode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+| [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kesavakumar2006/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/kesavakumar2006/leetcode/tree/master/0169-majority-element) |
+| [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
