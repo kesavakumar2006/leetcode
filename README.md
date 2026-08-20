@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kesavakumar2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kesavakumar2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
