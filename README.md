@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/kesavakumar2006/leetcode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kesavakumar2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kesavakumar2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kesavakumar2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kesavakumar2006/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kesavakumar2006/leetcode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kesavakumar2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kesavakumar2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kesavakumar2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
