@@ -100,4 +100,20 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kesavakumar2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kesavakumar2006/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kesavakumar2006/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kesavakumar2006/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kesavakumar2006/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
