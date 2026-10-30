@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kesavakumar2006/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kesavakumar2006/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kesavakumar2006/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kesavakumar2006/leetcode/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
