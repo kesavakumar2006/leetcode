@@ -43,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/kesavakumar2006/leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kesavakumar2006/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kesavakumar2006/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kesavakumar2006/leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -121,8 +124,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
