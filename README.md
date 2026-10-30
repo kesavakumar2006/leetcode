@@ -44,6 +44,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/kesavakumar2006/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kesavakumar2006/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesavakumar2006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesavakumar2006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kesavakumar2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -125,9 +127,11 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesavakumar2006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kesavakumar2006/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kesavakumar2006/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesavakumar2006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
